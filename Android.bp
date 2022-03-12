@@ -62,6 +62,7 @@ cc_defaults {
 // WARNING: this should no longer be used
 cc_library {
     name: "libhwbinder",
+    recovery_available: true,
     vendor_available: true,
 
     export_include_dirs: ["include"],
