@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93568774_ecdd3d8a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-03-21T16:49:40Z",
+      "side": 1,
+      "message": "Not needed, just use patchelf to remove dependency on this lib and link to libhidlbase since it\u0027s a dummy one anyways",
+      "revId": "8136451cafb11b50318f35adec7ecf2cfa157124",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
